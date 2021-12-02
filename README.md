@@ -1,1 +1,1 @@
-# billiards
+# Billiards game (2D)
